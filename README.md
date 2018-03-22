@@ -10,3 +10,5 @@ springboot+mybatis+bootstrap
 
 开发工具：idea2017.2.6,maven
 内含mybatis自动生成工具
+
+数据库:mysql
